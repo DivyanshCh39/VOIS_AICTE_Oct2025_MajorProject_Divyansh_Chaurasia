@@ -1,0 +1,11 @@
+Country,total_content,movies,tv_shows,percentage,Market_Tier
+Bangladesh,3,3,0,0.03,Tier 5: Untapped (< 5 titles)
+Kenya,5,5,0,0.06,Tier 4: Emerging (5-19 titles)
+Vietnam,5,5,0,0.06,Tier 4: Emerging (5-19 titles)
+Morocco,6,6,0,0.07,Tier 4: Emerging (5-19 titles)
+Peru,10,10,0,0.11,Tier 4: Emerging (5-19 titles)
+Pakistan,24,20,4,0.26,Tier 3: Growing (20-99 titles)
+Chile,26,21,5,0.29,Tier 3: Growing (20-99 titles)
+Colombia,45,17,28,0.5,Tier 3: Growing (20-99 titles)
+Thailand,65,43,22,0.72,Tier 3: Growing (20-99 titles)
+Brazil,88,59,29,0.97,Tier 3: Growing (20-99 titles)

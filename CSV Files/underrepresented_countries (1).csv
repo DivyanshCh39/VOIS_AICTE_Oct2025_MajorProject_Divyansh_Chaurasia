@@ -1,0 +1,77 @@
+Country,content_count,movies,tv_shows,percentage_of_catalog
+Dominican Republic,1,1,0,0.01
+Cyprus,1,0,1,0.01
+Ecuador,1,1,0,0.01
+Afghanistan,1,1,0,0.01
+Angola,1,1,0,0.01
+Albania,1,1,0,0.01
+Armenia,1,1,0,0.01
+Azerbaijan,1,0,1,0.01
+Belarus,1,0,1,0.01
+Panama,1,1,0,0.01
+Paraguay,1,1,0,0.01
+Nicaragua,1,1,0,0.01
+Lithuania,1,1,0,0.01
+Latvia,1,1,0,0.01
+Liechtenstein,1,1,0,0.01
+Puerto Rico,1,0,1,0.01
+East Germany,1,1,0,0.01
+Bahamas,1,1,0,0.01
+Botswana,1,1,0,0.01
+Bermuda,1,1,0,0.01
+Cuba,1,0,1,0.01
+Jamaica,1,1,0,0.01
+Kazakhstan,1,1,0,0.01
+Samoa,1,1,0,0.01
+Slovakia,1,1,0,0.01
+Somalia,1,1,0,0.01
+Sri Lanka,1,1,0,0.01
+Sudan,1,1,0,0.01
+Mongolia,1,1,0,0.01
+Montenegro,1,1,0,0.01
+Mauritius,1,0,1,0.01
+Malawi,1,1,0,0.01
+Vatican City,1,1,0,0.01
+Uganda,1,1,0,0.01
+Syria,1,0,1,0.01
+Guatemala,2,2,0,0.02
+Cayman Islands,2,2,0,0.02
+Namibia,2,2,0,0.02
+Georgia,2,2,0,0.02
+Iraq,2,2,0,0.02
+Nepal,2,2,0,0.02
+Algeria,2,2,0,0.02
+Slovenia,3,3,0,0.03
+Malta,3,2,1,0.03
+Zimbabwe,3,3,0,0.03
+Senegal,3,2,1,0.03
+Soviet Union,3,3,0,0.03
+Venezuela,3,3,0,0.03
+Ukraine,3,1,2,0.03
+Bangladesh,3,3,0,0.03
+Croatia,4,3,1,0.04
+Portugal,4,4,0,0.04
+,4,4,0,0.04
+Ghana,4,4,0,0.04
+Iran,4,4,0,0.04
+West Germany,5,3,2,0.06
+Kenya,5,5,0,0.06
+Vietnam,5,5,0,0.06
+Cambodia,5,5,0,0.06
+Morocco,6,6,0,0.07
+Qatar,7,7,0,0.08
+Kuwait,7,4,3,0.08
+Serbia,7,7,0,0.08
+Jordan,8,7,1,0.09
+Iceland,9,7,2,0.1
+Hungary,9,8,1,0.1
+Bulgaria,9,9,0,0.1
+Greece,10,8,2,0.11
+Saudi Arabia,10,6,4,0.11
+Peru,10,10,0,0.11
+Luxembourg,11,10,1,0.12
+Finland,11,7,4,0.12
+Austria,11,10,1,0.12
+Romania,12,12,0,0.13
+Uruguay,14,13,1,0.15
+Switzerland,17,16,1,0.19

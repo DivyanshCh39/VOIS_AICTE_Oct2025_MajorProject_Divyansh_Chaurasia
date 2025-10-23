@@ -1,0 +1,11 @@
+Gap_Category,Current_State,Gap_Size,Priority
+Metadata Completeness,30.7% missing,"3,000+ titles",High
+Content Type Imbalance,69.1% Movies,39% imbalance,Critical
+Family-Friendly Content,23.6%,22% undersupply,Critical
+Geographic (Africa/ME/SA),6.8%,50x less than NA,Critical
+Genre-Format Gaps,15 major genres,"2,437 titles",High
+Classic Content,0.1%,99.3% gap,Medium
+Long-Running Series,0.3%,99.6% gap,High
+Short-Form Content,7.8%,92% gap,Medium
+Niche Genres,13 genres,20-99 titles each,Medium
+TV Show Depth,1.8 avg seasons,66% single season,High

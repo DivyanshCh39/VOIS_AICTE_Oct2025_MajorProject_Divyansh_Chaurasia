@@ -1,0 +1,9 @@
+Region,num_countries,total_content,tv_shows,tv_show_pct,avg_content_per_country
+North America,3,3857,1039,26.94,1285.67
+Europe,40,2182,602,27.59,54.55
+Asia,18,2151,594,27.62,119.5
+Africa,17,272,33,12.13,16.0
+South America,9,270,81,30.0,30.0
+Oceania,2,171,67,39.18,85.5
+Middle East,10,125,25,20.0,12.5
+Other,19,30,4,13.33,1.58

@@ -1,0 +1,9 @@
+Column,Not_Null,Null_Count,Null_Percentage
+Category,7787,0,0.0
+Type,7787,0,0.0
+Country,7280,507,6.51
+Director,5399,2388,30.67
+Cast,7069,718,9.22
+Rating,7780,7,0.09
+Release_Date,7777,10,0.13
+Duration,7787,0,0.0

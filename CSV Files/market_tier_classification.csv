@@ -1,0 +1,119 @@
+Country,total_content,Market_Tier,movies,tv_shows
+United States,3291,Tier 1: Saturated (500+ titles),2431,860
+India,990,Tier 1: Saturated (500+ titles),915,75
+United Kingdom,722,Tier 1: Saturated (500+ titles),467,255
+Canada,412,Tier 2: Established (100-499 titles),286,126
+France,349,Tier 2: Established (100-499 titles),265,84
+Japan,286,Tier 2: Established (100-499 titles),103,183
+Spain,215,Tier 2: Established (100-499 titles),158,57
+South Korea,212,Tier 2: Established (100-499 titles),55,157
+Germany,199,Tier 2: Established (100-499 titles),157,42
+Mexico,154,Tier 2: Established (100-499 titles),101,53
+China,147,Tier 2: Established (100-499 titles),102,45
+Australia,143,Tier 2: Established (100-499 titles),84,59
+Egypt,110,Tier 2: Established (100-499 titles),97,13
+Turkey,108,Tier 2: Established (100-499 titles),80,28
+Hong Kong,102,Tier 2: Established (100-499 titles),97,5
+Italy,90,Tier 3: Growing (20-99 titles),67,23
+Brazil,88,Tier 3: Growing (20-99 titles),59,29
+Taiwan,85,Tier 3: Growing (20-99 titles),15,70
+Belgium,85,Tier 3: Growing (20-99 titles),74,11
+Argentina,82,Tier 3: Growing (20-99 titles),64,18
+Indonesia,80,Tier 3: Growing (20-99 titles),77,3
+Philippines,78,Tier 3: Growing (20-99 titles),77,1
+Nigeria,76,Tier 3: Growing (20-99 titles),68,8
+Thailand,65,Tier 3: Growing (20-99 titles),43,22
+South Africa,54,Tier 3: Growing (20-99 titles),44,10
+Colombia,45,Tier 3: Growing (20-99 titles),17,28
+Netherlands,45,Tier 3: Growing (20-99 titles),37,8
+Denmark,44,Tier 3: Growing (20-99 titles),31,13
+Ireland,40,Tier 3: Growing (20-99 titles),28,12
+Singapore,39,Tier 3: Growing (20-99 titles),18,21
+Sweden,39,Tier 3: Growing (20-99 titles),29,10
+Poland,36,Tier 3: Growing (20-99 titles),28,8
+United Arab Emirates,34,Tier 3: Growing (20-99 titles),33,1
+Norway,29,Tier 3: Growing (20-99 titles),20,9
+New Zealand,28,Tier 3: Growing (20-99 titles),20,8
+Russia,27,Tier 3: Growing (20-99 titles),10,17
+Lebanon,26,Tier 3: Growing (20-99 titles),19,7
+Malaysia,26,Tier 3: Growing (20-99 titles),18,8
+Chile,26,Tier 3: Growing (20-99 titles),21,5
+Israel,26,Tier 3: Growing (20-99 titles),18,8
+Pakistan,24,Tier 3: Growing (20-99 titles),20,4
+Czech Republic,20,Tier 3: Growing (20-99 titles),14,6
+Switzerland,17,Tier 4: Emerging (5-19 titles),16,1
+Uruguay,14,Tier 4: Emerging (5-19 titles),13,1
+Romania,12,Tier 4: Emerging (5-19 titles),12,0
+Luxembourg,11,Tier 4: Emerging (5-19 titles),10,1
+Austria,11,Tier 4: Emerging (5-19 titles),10,1
+Finland,11,Tier 4: Emerging (5-19 titles),7,4
+Greece,10,Tier 4: Emerging (5-19 titles),8,2
+Peru,10,Tier 4: Emerging (5-19 titles),10,0
+Saudi Arabia,10,Tier 4: Emerging (5-19 titles),6,4
+Hungary,9,Tier 4: Emerging (5-19 titles),8,1
+Bulgaria,9,Tier 4: Emerging (5-19 titles),9,0
+Iceland,9,Tier 4: Emerging (5-19 titles),7,2
+Jordan,8,Tier 4: Emerging (5-19 titles),7,1
+Serbia,7,Tier 4: Emerging (5-19 titles),7,0
+Qatar,7,Tier 4: Emerging (5-19 titles),7,0
+Kuwait,7,Tier 4: Emerging (5-19 titles),4,3
+Morocco,6,Tier 4: Emerging (5-19 titles),6,0
+West Germany,5,Tier 4: Emerging (5-19 titles),3,2
+Kenya,5,Tier 4: Emerging (5-19 titles),5,0
+Vietnam,5,Tier 4: Emerging (5-19 titles),5,0
+Cambodia,5,Tier 4: Emerging (5-19 titles),5,0
+Croatia,4,Tier 5: Untapped (< 5 titles),3,1
+Iran,4,Tier 5: Untapped (< 5 titles),4,0
+Portugal,4,Tier 5: Untapped (< 5 titles),4,0
+Ghana,4,Tier 5: Untapped (< 5 titles),4,0
+,4,Tier 5: Untapped (< 5 titles),4,0
+Zimbabwe,3,Tier 5: Untapped (< 5 titles),3,0
+Senegal,3,Tier 5: Untapped (< 5 titles),2,1
+Slovenia,3,Tier 5: Untapped (< 5 titles),3,0
+Malta,3,Tier 5: Untapped (< 5 titles),2,1
+Soviet Union,3,Tier 5: Untapped (< 5 titles),3,0
+Venezuela,3,Tier 5: Untapped (< 5 titles),3,0
+Ukraine,3,Tier 5: Untapped (< 5 titles),1,2
+Bangladesh,3,Tier 5: Untapped (< 5 titles),3,0
+Cayman Islands,2,Tier 5: Untapped (< 5 titles),2,0
+Iraq,2,Tier 5: Untapped (< 5 titles),2,0
+Georgia,2,Tier 5: Untapped (< 5 titles),2,0
+Guatemala,2,Tier 5: Untapped (< 5 titles),2,0
+Algeria,2,Tier 5: Untapped (< 5 titles),2,0
+Nepal,2,Tier 5: Untapped (< 5 titles),2,0
+Namibia,2,Tier 5: Untapped (< 5 titles),2,0
+Bahamas,1,Tier 5: Untapped (< 5 titles),1,0
+Bermuda,1,Tier 5: Untapped (< 5 titles),1,0
+Botswana,1,Tier 5: Untapped (< 5 titles),1,0
+Kazakhstan,1,Tier 5: Untapped (< 5 titles),1,0
+Jamaica,1,Tier 5: Untapped (< 5 titles),1,0
+East Germany,1,Tier 5: Untapped (< 5 titles),1,0
+Cuba,1,Tier 5: Untapped (< 5 titles),0,1
+Dominican Republic,1,Tier 5: Untapped (< 5 titles),1,0
+Cyprus,1,Tier 5: Untapped (< 5 titles),0,1
+Ecuador,1,Tier 5: Untapped (< 5 titles),1,0
+Afghanistan,1,Tier 5: Untapped (< 5 titles),1,0
+Angola,1,Tier 5: Untapped (< 5 titles),1,0
+Albania,1,Tier 5: Untapped (< 5 titles),1,0
+Armenia,1,Tier 5: Untapped (< 5 titles),1,0
+Azerbaijan,1,Tier 5: Untapped (< 5 titles),0,1
+Belarus,1,Tier 5: Untapped (< 5 titles),0,1
+Liechtenstein,1,Tier 5: Untapped (< 5 titles),1,0
+Latvia,1,Tier 5: Untapped (< 5 titles),1,0
+Lithuania,1,Tier 5: Untapped (< 5 titles),1,0
+Puerto Rico,1,Tier 5: Untapped (< 5 titles),0,1
+Paraguay,1,Tier 5: Untapped (< 5 titles),1,0
+Nicaragua,1,Tier 5: Untapped (< 5 titles),1,0
+Panama,1,Tier 5: Untapped (< 5 titles),1,0
+Malawi,1,Tier 5: Untapped (< 5 titles),1,0
+Mauritius,1,Tier 5: Untapped (< 5 titles),0,1
+Montenegro,1,Tier 5: Untapped (< 5 titles),1,0
+Mongolia,1,Tier 5: Untapped (< 5 titles),1,0
+Sudan,1,Tier 5: Untapped (< 5 titles),1,0
+Sri Lanka,1,Tier 5: Untapped (< 5 titles),1,0
+Somalia,1,Tier 5: Untapped (< 5 titles),1,0
+Slovakia,1,Tier 5: Untapped (< 5 titles),1,0
+Samoa,1,Tier 5: Untapped (< 5 titles),1,0
+Syria,1,Tier 5: Untapped (< 5 titles),0,1
+Uganda,1,Tier 5: Untapped (< 5 titles),1,0
+Vatican City,1,Tier 5: Untapped (< 5 titles),1,0
